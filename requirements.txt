@@ -1,3 +1,10 @@
+numpy
+matplotlib
+tensorflow
+tensorflow-datasets
 opencv-python
 easyocr
 transformers
+torch
+torchvision
+pillow
